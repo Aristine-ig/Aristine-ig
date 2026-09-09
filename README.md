@@ -139,6 +139,3 @@ Computer Science student specializing in Full Stack Development and AI/ML. I bui
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=aristine-ig&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
