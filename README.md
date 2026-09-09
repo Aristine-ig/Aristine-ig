@@ -4,6 +4,8 @@
 
 I'm a Computer Science student specializing in AI/ML. I build web applications and AI-based projects using **React, Next.js, Node.js, TypeScript, MongoDB, and AI APIs**.
 
+I work on both frontend and backend development and use projects to learn and apply new technologies.
+
 ## 🛠️ Skills
 
 ### Frontend
@@ -12,17 +14,19 @@ I'm a Computer Science student specializing in AI/ML. I build web applications a
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,js,ts" />
 </p>
 
-### Backend & Database
+### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
 </p>
 
 ### AI / ML
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 **AI:** OpenAI • Gemini • RAG • AI Agents
 
@@ -82,6 +86,12 @@ A project for exploring how RAG can use information from a knowledge base to pro
 <p align="left">
 <a href="https://www.linkedin.com/in/rajsingh-tech">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aristine277@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/917039447605">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
