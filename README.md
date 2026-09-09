@@ -1,64 +1,15 @@
-# Hi, I'm Raj Singh 👋
+# 💫 About Me:
+Hi, I'm Raj Singh 👋<br>Full-Stack Developer | AI/ML Student<br><br>I'm a Computer Science student specializing in AI/ML, and I enjoy building web applications and experimenting with AI.<br><br>I mainly work with React, Next.js, Node.js, TypeScript, MongoDB, and AI APIs. I like learning by building projects and understanding how things work from the frontend to the backend.
 
-### Full-Stack Developer • AI Engineer • CSE (AI/ML)
 
-I build production-focused web applications and AI-powered tools using **React, Next.js, Node.js, TypeScript, MongoDB, and modern AI APIs**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajsingh-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsinghtech9@gmail.com) 
 
-I enjoy turning ideas into complete products — from clean frontend experiences and REST APIs to AI features, authentication, databases, deployment, and automation.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aristine-ig&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aristine-ig&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aristine-ig&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 What I Work With
-
-**Frontend**
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • shadcn/ui
-
-**Backend**
-Node.js • Express.js • REST APIs • MongoDB • SQL
-
-**AI / Automation**
-OpenAI • Gemini • AI Agents • RAG • AI-assisted Developer Tools
-
-**DevOps / Tools**
-Git • GitHub • GitHub Actions • Docker • Vercel • Render
-
-## ⭐ Featured Projects
-
-### Patchwork — Autonomous AI Bug Repair Agent
-
-AI-assisted developer tool that combines deterministic code checks with AI reasoning to identify failures, propose patches, and validate repairs.
-
-**Stack:** React, Vite, TypeScript, Tailwind CSS, Express, PostgreSQL
-
-🔗 [Repository](https://github.com/Aristine-ig/Autonomous-AI-Bug-Repair-Agent)
-
-### AI Resume Analyser & Interviewer
-
-AI-powered resume analysis and interview workflow designed to help candidates identify gaps and prepare for technical interviews.
-
-🔗 [Repository](https://github.com/Aristine-ig/AI-resume-Analyser-and-Interviewer)
-
-### AI Therapist
-
-Conversational AI application exploring personalized responses, emotional context, and privacy-focused architecture.
-
-🔗 [Repository](https://github.com/Aristine-ig/AI-Therapist)
-
-### Full-Stack Food Ordering Platform
-
-End-to-end food ordering application with frontend, backend APIs, and database-driven application flow.
-
-🔗 [Repository](https://github.com/Aristine-ig/FullStackFoodOrderingPlatform)
-
-## 📌 Currently Learning & Building
-
-* AI agents and autonomous developer workflows
-* RAG and LLM application architecture
-* Scalable full-stack systems
-* Testing, CI/CD, and production engineering
-
-## 🤝 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/rajsingh-tech) • [GitHub](https://github.com/Aristine-ig)
-
----
-
-> I build, ship, and continuously improve software.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
