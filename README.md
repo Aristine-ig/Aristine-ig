@@ -11,35 +11,93 @@ I work on both frontend and backend development and use projects to learn and ap
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,js,ts" />
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" />
+</a>
+<a href="https://vite.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
+</a>
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
-</p>
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
+</a>
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" />
+</a>
+<a href="https://supabase.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
+</a>
 </p>
 
-### AI / ML
-
-**AI:** OpenAI • Gemini • LangChain • RAG • AI Agents
-
-### Tools
+### AI & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" />
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" height="50" />
+</a>
+<a href="https://openai.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" height="50" />
+</a>
+<a href="https://ai.google.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gemini" alt="Gemini" height="50" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" />
+</a>
+<a href="https://vercel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" />
+</a>
 </p>
 
 ## 🚀 Projects
