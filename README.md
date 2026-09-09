@@ -1,117 +1,202 @@
-<div align="center">
+# Hi, I'm Raj Singh 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=180&section=header&text=Raj%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Student&descAlignY=58&descSize=18" width="100%"/>
+### Full-Stack Developer | AI/ML Student
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Exploring+AI+Agents+and+RAG+Systems;Full+Stack+%2B+AI%2FML" alt="Typing SVG" />
+I'm a Computer Science student specializing in AI/ML. I build web applications and AI-based projects using **React, Next.js, Node.js, TypeScript, MongoDB, and AI APIs**.
 
-<br/>
+I work on both frontend and backend development and use projects to learn and apply new technologies.
 
-<a href="https://www.linkedin.com/in/rajsingh-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </a>
-<a href="mailto:aristine277@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </a>
-<a href="https://wa.me/917039447605">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Aristine-ig&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
-</div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
 
-<br/>
+<a href="https://vite.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</a>
 
-## About Me
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</a>
 
-I'm a final-year Computer Science student specializing in AI/ML, currently working as a Full Stack Developer. I build web apps and AI-based projects with React, Next.js, Node.js, and MongoDB, and I use most of my projects as a way to learn new tools rather than the other way around.
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</a>
 
-- 🎓 Final-year B.E. CSE (AI/ML) student
-- 💼 Full Stack Developer, working across frontend and backend
-- 🧠 Currently exploring AI agents, RAG pipelines, and LangChain
-- 📫 Reach me at **aristine277@gmail.com**
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</a>
 
-<br/>
+</p>
 
-## Tech Stack
+### Backend & Languages
 
-**Frontend**
+<p align="left">
 
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</a>
 
-**Backend**
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</a>
 
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+<a href="https://www.java.com/" target="_blank">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</a>
 
-**Databases**
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
 
-<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase" />
+</p>
 
-**AI & Tools**
+### Databases
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain" />
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini" />
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+<p align="left">
 
-<br/>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</a>
 
-## Featured Projects
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Patchwork — Autonomous AI Bug Repair Agent](https://github.com/Aristine-ig/Autonomous-AI-Bug-Repair-Agent)** | AI agent that finds bugs, explains errors, suggests fixes, and checks whether the fix works | React · TypeScript · Vite · Express · PostgreSQL |
-| **[AI Resume Analyser & Interviewer](https://github.com/Aristine-ig/AI-resume-Analyser-and-Interviewer)** | Analyzes resumes and runs AI-driven mock interview practice | AI/ML |
-| **[AI Therapist](https://github.com/Aristine-ig/AI-Therapist)** | Conversational AI project exploring context-aware, personalized responses | AI/ML |
-| **[Local Hybrid RAG System](https://github.com/Aristine-ig/Local-Hybrid-RAG-System)** | Combines local embeddings and vector search to pull more relevant answers from a knowledge base | RAG · Embeddings · Vector Search · LLMs |
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
 
-<br/>
+<a href="https://supabase.com/" target="_blank">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+</a>
 
-## Currently Learning
+</p>
 
-<img src="https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_%26_LLM_Apps-6366F1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-6366F1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-6366F1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing_%26_CI/CD-6366F1?style=flat-square&logoColor=white" />
+### AI & Tools
 
-<br/>
-<br/>
+<p align="left">
 
-## GitHub Stats
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</a>
 
-<div align="center">
+<a href="https://openai.com/" target="_blank">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</a>
+
+<a href="https://ai.google.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</a>
+
+</p>
+
+## 🚀 Projects
+
+### Patchwork — Autonomous AI Bug Repair Agent
+
+A project that uses AI to help find bugs, understand errors, suggest fixes, and check whether a fix works.
+
+**Tech:** React • TypeScript • Vite • Express • PostgreSQL
+
+[View Repository](https://github.com/Aristine-ig/Autonomous-AI-Bug-Repair-Agent)
+
+### AI Resume Analyser & Interviewer
+
+An AI-based project for analyzing resumes and helping users prepare for interviews.
+
+[View Repository](https://github.com/Aristine-ig/AI-resume-Analyser-and-Interviewer)
+
+### AI Therapist
+
+A conversational AI project that explores AI-based conversations and personalized responses.
+
+[View Repository](https://github.com/Aristine-ig/AI-Therapist)
+
+### Local Hybrid RAG System
+
+A project for exploring how RAG can use information from a knowledge base to provide more relevant answers.
+
+**Focus:** RAG • Embeddings • Vector Search • LLMs
+
+[View Repository](https://github.com/Aristine-ig/Local-Hybrid-RAG-System)
+
+## 📚 Currently Learning
+
+- AI Agents
+- RAG and LLM applications
+- LangChain
+- Full-stack development
+- System design
+- Testing and CI/CD
+
+## 📊 GitHub Stats
+
+<p align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aristine-ig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristine-ig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aristine-ig&theme=tokyonight&hide_border=true&background=0D1117" />
 
-</div>
+</p>
 
-<br/>
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="left">
 
-*Building projects and learning along the way.*
+<a href="https://www.linkedin.com/in/rajsingh-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+<a href="mailto:aristine277@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
+<a href="https://wa.me/917039447605">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
+</p>
+
+---
+
+> Building projects and learning along the way.
