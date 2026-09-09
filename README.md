@@ -170,20 +170,7 @@ Computer Science student specializing in Full Stack Developement and AIML. I bui
 
 <br/>
 
-## Currently Learning
 
-<img src="https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square&logoColor=white" />
-
-<img src="https://img.shields.io/badge/RAG_%26_LLM_Apps-6366F1?style=flat-square&logoColor=white" />
-
-<img src="https://img.shields.io/badge/LangChain-6366F1?style=flat-square&logoColor=white" />
-
-<img src="https://img.shields.io/badge/System_Design-6366F1?style=flat-square&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Testing_%26_CI%2FCD-6366F1?style=flat-square&logoColor=white" />
-
-<br/>
-<br/>
 
 ## GitHub Stats
 
