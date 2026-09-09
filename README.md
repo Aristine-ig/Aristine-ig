@@ -26,7 +26,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science student specializing in AI/ML, currently working as a Full Stack Developer. I build web apps and AI-based projects with React, Next.js, Node.js, and MongoDB, and I use most of my projects as a way to learn new tools rather than the other way around.
+Computer Science student specializing in Full Stack Developement and AIML. I build web apps and AI-based projects with React, Next.js, Node.js, and MongoDB, and I use most of my projects as a way to learn new tools rather than the other way around.
 
 - 🎓 Final-year B.E. CSE (AI/ML) student
 - 💼 Full Stack Developer, working across frontend and backend
