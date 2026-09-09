@@ -187,16 +187,6 @@ I'm a final-year Computer Science student specializing in AI/ML, currently worki
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aristine-ig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristine-ig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aristine-ig&theme=tokyonight&hide_border=true&background=0D1117" />
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aristine-ig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=aristine-ig&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aristine-ig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
