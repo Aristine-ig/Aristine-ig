@@ -20,6 +20,12 @@ I work on both frontend and backend development and use projects to learn and ap
 <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+</p>
+
 ### Databases
 
 <p align="left">
@@ -28,7 +34,7 @@ I work on both frontend and backend development and use projects to learn and ap
 
 ### AI / ML
 
-**AI:** OpenAI • Gemini • RAG • AI Agents
+**AI:** OpenAI • Gemini • LangChain • RAG • AI Agents
 
 ### Tools
 
@@ -70,6 +76,7 @@ A project for exploring how RAG can use information from a knowledge base to pro
 
 * AI Agents
 * RAG and LLM applications
+* LangChain
 * Full-stack development
 * System design
 * Testing and CI/CD
