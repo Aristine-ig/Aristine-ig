@@ -114,3 +114,4 @@ I'm a final-year Computer Science student specializing in AI/ML, currently worki
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
+
